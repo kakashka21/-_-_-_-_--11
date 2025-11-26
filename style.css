@@ -1,0 +1,159 @@
+
+* {
+    box-sizing: border-box;  
+}
+
+     header {
+    border: 1,5px solid black;
+    background-color:  #52504e;
+    margin-top: 0;
+    }
+    .header {
+        background-color: #635854;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+
+    .topnav {
+    background-color: #52504e;
+    overflow: hidden;
+    margin: 20px 0 50px 220px;
+    overflow: hidden;
+    margin-top: 0%;
+    }
+
+
+    .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    }
+    
+    .active {
+        float: left;
+        color: #f2f2f2;
+        text-align: left;
+        padding: 5px 7px;
+        text-decoration: none;
+        font-size: 20px;
+        padding: 15px 7px;
+        
+        
+    }
+    
+    .active1 {
+        float: left;
+        color: #f2f2f2;
+        text-align : center;
+        padding: 15px 7px;
+        text-decoration: none;
+        font-size: 15px;
+        background-color: #3383d4;
+    
+    }
+
+    .active2 {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 15px 7px;
+        text-decoration: none;
+        font-size: 15;
+    }
+    
+    .active3 {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 15px 7px;
+        text-decoration: none;
+        font-size: 15px;
+    }
+
+    .active4 {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 15px 7px;
+        text-decoration: none;
+        font-size: 15px;
+    }
+    
+    .main_img-float {
+        text-align: center;
+        float: left;
+        text-decoration: none;
+        margin-left: 3%;
+    }
+      
+    
+  
+
+    .etazh {
+        display: inline-block;
+        position: absolute;
+        Left: 55%;
+        font-size: 27px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         transform: scaleY(1.5);
+        transform-origin: 0 0;
+        margin-bottom: -50%;
+        color:#52504e
+    }
+
+    .main_img-float2 {
+        margin-left: 3%;
+        width: 734;
+        height: 640;
+    }
+
+    .main_img-float3 {
+        display: block; 
+        position: absolute;
+        left: 55%; 
+        margin-top:-25%;
+        
+    }
+
+    .main_img-float4 {
+       /*  margin-top:-30%;
+        margin-right: 30%;
+       /*  position:absolute; */
+        /* left:50%;
+        display: block;  */
+        
+    }
+    footer {
+        background-color: #9d9e9d;
+  color: #fff;
+  text-align: left ;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 120px;
+ 
+ 
+    }
+    .main_img-float5 {
+        margin-left: 3%;
+    }
+ .active5 {
+    float: left;
+        color: #f2f2f2;
+        text-align: right;
+        padding: 15px 7px;
+        text-decoration:none;
+        font-size: 15px;
+ }
+   
+   
+  
+
+
+   
+    
+
+    
+
+
+
